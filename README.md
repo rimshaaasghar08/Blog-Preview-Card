@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/rimshaaasghar08/Blog-Preview-Card.git)
-- Live Site URL: [Blog Preview Card](https://yourusername.github.io/blog-preview-card/)
+- Live Site URL: [Blog Preview Card](https://rimshaaasghar08.github.io/Blog-Preview-Card/)
 
 ## My process
 
